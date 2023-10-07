@@ -1,0 +1,8 @@
+.headerBar {
+    width: 100vw;
+    height: 8vh;
+    font-size: 8vh;
+    text-align: center;
+    background: black;
+    color: wheat;
+}

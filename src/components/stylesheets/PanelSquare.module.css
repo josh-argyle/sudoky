@@ -1,0 +1,19 @@
+.panelSquare {
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.panelSquare:hover {
+    background: lightsteelblue;
+}
+
+.squareValue {
+    margin: auto;
+    line-height: 8vh;
+    height: 8vh;
+    width: 8vh;
+    /*border: 1px solid black;*/
+    font-size: 5vh;
+}

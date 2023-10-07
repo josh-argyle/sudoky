@@ -1,0 +1,18 @@
+.modalCloseButton {
+    text-align: center;
+    width: 3vw;
+    height: 3vw;
+    border: 2px solid black;
+    border-radius: 100px;
+    background: lightsalmon;
+}
+
+.modalCloseButton:hover {
+    background: red;
+}
+
+.x {
+    font-size: 2vw;
+    text-align: center;
+    line-height: 3vw;
+}

@@ -1,0 +1,9 @@
+.appFooter {
+    height: 2vh;
+    line-height: 2vh;
+    background: black;
+    color: wheat;
+    text-align: center;
+    font-size: 1.4vh;
+    margin: auto;
+}

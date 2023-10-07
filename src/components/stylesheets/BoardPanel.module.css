@@ -1,0 +1,10 @@
+.boardPanel {
+    background: lightgrey;
+    height: 25.5vh;
+    width: 25.5vh;
+    border-radius: 10px;
+    margin: auto;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}

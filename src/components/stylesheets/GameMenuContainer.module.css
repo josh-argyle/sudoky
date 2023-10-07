@@ -1,0 +1,77 @@
+.container {
+    height: 40vh;
+    width: 15vw;
+    border-radius: 20px;
+    /*margin: 2vh 2vw;*/
+    /*margin-top: auto;*/
+    /*margin-bottom: auto;*/
+    margin: auto;
+    border: 2px solid black;
+    background: pink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gameMenu {
+    margin: 1vh 1vh;
+    /*border: 2px solid black;*/
+    border-radius: 50px;
+    height: 5vh;
+    /*background: lightblue;*/
+    text-align: center;
+    font-size: 5vh;
+}
+
+.menuButton {
+    margin: 1vh auto;
+    border: 2px solid black;
+    border-radius: 50px;
+    height: 10vh;
+    background: lightblue;
+    text-align: center;
+    font-size: 3vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 10vw;
+}
+
+.menuButton:hover {
+    background: lightyellow;
+    line-height: 100%;
+}
+
+.newGame {
+    margin: 1vh 1vh;
+    border-radius: 50px;
+    border: 2px solid black;
+    height: 10vh;
+    background: lightblue;
+    text-align: center;
+    font-size: 3vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.newGame:hover {
+    background: lightyellow;
+}
+
+.submit {
+    margin: 1vh 1vh;
+    border-radius: 50px;
+    border: 2px solid black;
+    height: 10vh;
+    background: lightblue;
+    text-align: center;
+    font-size: 3vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.submit:hover {
+    background: lightyellow;
+}

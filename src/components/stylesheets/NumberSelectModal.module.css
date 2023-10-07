@@ -1,0 +1,38 @@
+.numberSelectModal {
+    /*border: 3px solid blue;*/
+    border-radius: 20px;
+    height: 30vh;
+    width: 20vw;
+    margin: 30vh auto auto auto;
+    /*background: palegoldenrod;*/
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    outline: none;
+}
+
+.closeButton {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 4;
+    display: flex;
+    justify-content: center;
+    margin-top: 1vh;
+    margin-right: 1vw;
+    /*border: 2px solid black;*/
+}
+
+.modalButtonContainer {
+    margin: auto auto auto auto;
+    height: 25vh;
+    width: 25vw;
+    background-color: lightblue;
+    border: 3px solid black;
+
+    border-radius: 20px;
+    /*box-shadow: 0 0 15px 18px white;*/
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}

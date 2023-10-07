@@ -1,0 +1,12 @@
+.gameBoard {
+    height: 80vh;
+    width: 80vh;
+    /*margin: 2vh 2vw;*/
+    /*border: 2px solid red;*/
+    padding: .5vh;
+    border-radius: 12px;
+    background: lightseagreen;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}

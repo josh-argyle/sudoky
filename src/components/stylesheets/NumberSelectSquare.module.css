@@ -1,0 +1,14 @@
+.numberSelectSquare {
+    font-size: 5vh;
+    text-align: center;
+    height: 8vh;
+    width: 8vh;
+    border: 2px solid black;
+    border-radius: 40px;
+    margin: auto;
+    background: palegreen;
+}
+
+.numberSelectSquare:hover {
+    background: lightsteelblue;
+}

@@ -1,0 +1,22 @@
+.submissionResultModal {
+    /*border: 3px solid black;*/
+    /*border-radius: 40px;*/
+    height: 40vh;
+    width: 40vw;
+    margin: 30vh auto auto 30vw;
+    /*background: navy;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+}
+
+.submissionResult {
+    font-size: 12vh;
+    height: 14vh;
+    width: 40vw;
+    text-align: center;
+    background-color: rgba(255, 238, 221, 0.75);
+    border-radius: 40px;
+}
